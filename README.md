@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Đức Thịnh</h1>
-<h3 align="center">A passionate web developer from Ho Chi Minh City, Vietnam</h3>
+<h3 align="center">A passionate computer science student & web developer from Ho Chi Minh City, Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdthinh1012&label=Profile%20views&color=0e75b6&style=flat" alt="hdthinh1012" /> </p>
 
