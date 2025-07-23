@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdthinh1012" alt="hdthinh1012" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Project](https://github.com/LittleLegend-Pengiun/ecommerce-app-v2)
+- 🔭 I’m currently working on [Microfrontend Libraries with Webpack Module Federation library](https://github.com/LittleLegend-Pengiun/example-micro-frontend-app) ([NPM package](https://www.npmjs.com/package/3xmf-miniapp-generator))
 
-- 🌱 I’m currently learning **Data Science (IBM Data Science Coursera Certificate), Cloud Service (AWS Study Group), Cryptography (Cryptohack)**
+- 🌱 I’m currently learning **Data Science (IBM Data Science Coursera Certificate), Cloud Service (AWS Study Group)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hdthinh1012?tab=repositories](https://github.com/hdthinh1012?tab=repositories)
 
 - 📝 I regularly write articles on hdthinh1012.github.io
 
-- 💬 Ask me about **typescript, express, java, spring boot, go, gin, docker, kubernetes**
+- 💬 Ask me about **typescript, express, java, spring boot, docker**
 
 - 📫 How to reach me **hdthinh01@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thinh-huynh-duc/](https://www.linkedin.com/in/thinh-huynh-duc/)
 
-- ⚡ About my personality: **I am passionate about computer science, especially data science, and planning to improve my knowledge in various field relating to computing such as data science, high performance computing, cryptography. I am eager to learn, eager to improve, adaptive to new technology, trend in computer sciences. And I identify myself as easy-going, sociable, team player.**
+- ⚡ About my personality: **I am passionate about computer science, especially data science, and planning to improve my knowledge in various field relating to computing such as data science, high performance computing. I am eager to learn, eager to improve, adaptive to new technology, trend in computer sciences. And I identify myself as easy-going, sociable, team player.**
 
 <h2 align="left">My Blogs (more to come):</h2>
 
